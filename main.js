@@ -104,7 +104,7 @@ module.exports = "div.container{\n    background-image: radial-gradient(white,rg
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"jumbotron\">\n  <h1>William T Enright</h1>\n  <h3>Full Stack Web Developer & Tech Guy</h3>\n</div>\n<div class=\"container\">\n  \n  <ngb-tabset justified=\"true\">\n\n    <ngb-tab title=\"About\">\n      <ng-template ngbTabContent>\n        <app-about></app-about>\n      </ng-template>\n    </ngb-tab>\n    \n    <ngb-tab title=\"Skills\">\n      <ng-template ngbTabContent>\n        <app-skills></app-skills>\n      </ng-template>\n    </ngb-tab>\n\n\n    <ngb-tab title=\"Projects\">\n      <ng-template ngbTabContent>\n        <app-projects></app-projects>\n      </ng-template>\n    </ngb-tab>\n    \n    <ngb-tab title=\"Links\">\n      <ng-template ngbTabContent>\n        <app-contact></app-contact>\n      </ng-template>\n    </ngb-tab>\n    \n  </ngb-tabset>\n  <p class=\"copyr\">&copy; 2018 William T. Enright • www.wm10right.com</p>\n</div>\n"
+module.exports = "<div class=\"jumbotron\">\n  <h1>William T Enright</h1>\n  <h3>Full Stack Web Developer</h3>\n</div>\n<div class=\"container\">\n  \n  <ngb-tabset justified=\"true\">\n\n    <ngb-tab title=\"About\">\n      <ng-template ngbTabContent>\n        <app-about></app-about>\n      </ng-template>\n    </ngb-tab>\n    \n    <ngb-tab title=\"Skills\">\n      <ng-template ngbTabContent>\n        <app-skills></app-skills>\n      </ng-template>\n    </ngb-tab>\n\n    <ngb-tab title=\"Projects\">\n      <ng-template ngbTabContent>\n        <app-projects></app-projects>\n      </ng-template>\n    </ngb-tab>\n    \n    <ngb-tab title=\"Links\">\n      <ng-template ngbTabContent>\n        <app-contact></app-contact>\n      </ng-template>\n    </ngb-tab>\n    \n  </ngb-tabset>\n  <p class=\"copyr\">&copy; 2018 William T. Enright • www.wm10right.com</p>\n</div>\n"
 
 /***/ }),
 
@@ -221,7 +221,7 @@ var AppModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ".container{\n    text-align: center;\n    padding: auto;\n}\n\n.contact{\n    padding: 20px;\n    border-radius: 10px;\n    box-shadow: 2px 2px 2px black;\n    width: 200px;\n    margin: 10px;\n    display: inline-block;\n    vertical-align: top;\n}"
+module.exports = ".container{\n    text-align: center;\n    padding: auto;\n}\n\n.contact{\n    padding: 20px;\n    border-radius: 10px;\n    box-shadow: 2px 2px 2px black;\n    width: 200px;\n    height: 80px;\n    margin: 10px;\n    display: inline-block;\n    vertical-align: top;\n}"
 
 /***/ }),
 
