@@ -89,7 +89,7 @@ module.exports = "/*!\n *  Font Awesome 4.7.0 by @davegandy - http://fontawesome
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "body{\n    /* background-image: linear-gradient(darkred,red);\n    background-repeat: no-repeat;\n    background-size: cover;\n    background-attachment: fixed; */\n\n    background-image: url('bg.gif');\n    background-size: cover;\n    background-attachment: fixed;\n    background-position: top;\n}\n"
+module.exports = "body{\n    /* background-image: linear-gradient(darkred,red);\n    background-repeat: no-repeat;\n    background-size: cover;\n    background-attachment: fixed; */\n    background-image: url('bg.gif');\n    background-size: cover;\n    background-attachment: fixed;\n    background-position: top;\n}\n"
 
 /***/ }),
 
